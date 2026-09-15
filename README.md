@@ -257,7 +257,7 @@ Form Data:
 
 ```bash
 # Clone the repository
-git clone https://github.com/dhruvsinghal09/Adaptive-Rag.git
+git clone https://github.com/AtharvvM/agentic-adaptive-rag.git
 cd AdaptiveRag
 
 # Create virtual environment
@@ -535,7 +535,7 @@ A: Yes, remove Tavily dependency. Queries will use index or general LLM only.
 ## 💬 Support & Contact
 
 For issues, questions, or suggestions:
-- Open an [Issue](https://github.com/dhruvsinghal09/Adaptive-Rag/issues)
+- Open an [Issue](https://github.com/AtharvvM/agentic-adaptive-rag/issues)
 - Check existing documentation
 - Review the code comments
 
@@ -560,9 +560,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Dhruv Singhal**
-- GitHub: [@dhruvsinghal09](https://github.com/dhruvsinghal09)
-- Project: [Adaptive RAG](https://github.com/dhruvsinghal09/Adaptive-Rag)
+**Atharv Mishra**
+- GitHub: [@AtharvvM](https://github.com/dhruvsinghal09)
+- Project: [Adaptive RAG](https://github.com/AtharvvM/agentic-adaptive-rag)
 
 ---
 
